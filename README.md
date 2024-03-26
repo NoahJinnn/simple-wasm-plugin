@@ -1,6 +1,6 @@
 # Rust WASM plugin 
 
-This repo is the plugin template for HelloHQ app
+This repo is the plugin template for SuperApp app
 
 ## Usage
 
